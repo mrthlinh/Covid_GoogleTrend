@@ -1,0 +1,6 @@
+.vscode
+airflow*
+*.cfg
+__pycache__
+logs
+tmp
