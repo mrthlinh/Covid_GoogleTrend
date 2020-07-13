@@ -23,7 +23,7 @@ class googletrend_operator(BaseOperator):
                 'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY']
     
     # ------ Insert your API key in the string below. -------
-    API_KEY = 'AIzaSyC7aZqq0zGnL83i7sjxRmLjYeLtoTpS2vw'
+    # API_KEY = ''
 
     SERVER = 'https://www.googleapis.com'
     API_VERSION = 'v1beta'
